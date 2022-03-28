@@ -93,7 +93,7 @@ caracter rmenu='s'
     	
     	se ((v>=1 e v<=30)e estacionamento[v-1]==0){
     		 estacionamento[v-1]=1
-    		 escreva("\nEssa vaga está vazia, pode estacionar!\n")
+    		 escreva("\nSua vaga foi reservada com sucesso\n")
     	} senao se (v<1 ou v>30){
     		escreva("\nVaga inexistente\n")
     	} senao se (estacionamento[v-1]==1){
@@ -129,7 +129,7 @@ caracter rmenu='s'
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1208; 
+ * @POSICAO-CURSOR = 2754; 
  * @DOBRAMENTO-CODIGO = [2];
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
