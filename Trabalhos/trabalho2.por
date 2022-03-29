@@ -58,6 +58,7 @@ caracter rmenu='s'
                 pare
                 caso contrario:
                 escreva("\nNumero inválido, insira de novo\n")
+                pare
             }
         }
 
@@ -129,7 +130,7 @@ caracter rmenu='s'
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 2754; 
+ * @POSICAO-CURSOR = 1939; 
  * @DOBRAMENTO-CODIGO = [2];
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
